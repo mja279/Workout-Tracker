@@ -12,6 +12,7 @@ A consumer will reach their fitness goals more quickly when they track their wor
 
 To run the application from your computer, you will need to install the following dependencies: 
   > express
+  
   > mongoose
 
 Metrics from the deployed website are stored via Mongod DB Atlas' AWS environment. 
